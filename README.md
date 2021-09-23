@@ -1,3 +1,3 @@
-# otter.js
+# otterwhisperer.js
 
 > Just anotter JavaScript library.
